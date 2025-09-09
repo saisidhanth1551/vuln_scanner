@@ -1,0 +1,4 @@
+requests
+pyyaml
+reportlab
+beautifulsoup4
